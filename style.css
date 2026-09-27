@@ -1,0 +1,28 @@
+.box{
+    text-align: center;
+    width: 400px;
+    background-color:white;
+    margin-top: 40px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    background-color:snow;
+}
+input{
+    text-align:center;
+    width: 300px;
+    padding: 7px;
+    border-radius: 5px;
+    border:1.5px solid gray;
+}
+h1{
+    padding-right: 50%;
+}
+#result{
+    list-style: none;
+    padding: 0;
+}
+.completed{
+    text-decoration: line-through;
+}
